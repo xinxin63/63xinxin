@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "{{ jekyll-theme-architect.theme }}";
+@import "{{ site.theme }}";
 body {
     background-image: url("../images/NEuip.jpg");
     background-repeat: no-repeat;
