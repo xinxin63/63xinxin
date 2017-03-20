@@ -2,16 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
-.body {
-    background-image: url("NEuip.jpg");
-    background-repeat: no-repeat;
-    background-position: right top;
-    margin-right: 200px;
-    background-attachment: fixed;
-}
+.red{color: rgb(255, 86, 112);}
 
-.h1 {
-	color: rgb(255, 86, 112);
-    margin-left: 20px;
-}
+
 
