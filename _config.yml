@@ -1,1 +1,5 @@
-theme: jekyll-theme-merlot
+title: Stats 141B Course Projects
+description: Stats 141B is a course of Data and Web Technologies for Data Analysis
+show_downloads: true
+google_analytics:
+theme: 
