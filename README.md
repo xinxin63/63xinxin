@@ -24,7 +24,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-<a href = "HW1/assignment1.html">Assignment 1</a> - The Doomsday Algorithm
+<a href = "HW1/assignment1.html">Assignment 1</a> - The Doomsday Algorithm <br>
 <a href = "HW2/assignment2.html">Assignment 2</a> - Image Processing Basics and Singular Value Decomposition
 <a href = "HW3/assignment3.html">Assignment 3</a> - Date analysis of the US Department of Agriculture published price for fruits and vegetables
 <a href = "HW4/assignment4.html">Assignment 4</a> - Explore the USDA Food Composition Databases by web API
