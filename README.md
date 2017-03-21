@@ -24,5 +24,5 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-<div w3-include-html="assignment6.html"></div> 
+
 
