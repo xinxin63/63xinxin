@@ -21,9 +21,9 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-<a href="HW6/assignment6.html">Assignment 6</a>
+
 [Link](url) and ![Image](src)
 ```
-
+<a href="HW6/assignment6.html">Assignment 6</a>
 
 
