@@ -19,23 +19,6 @@ p {
   line-height: 1.5;
 }
 
-h1 {
-  font-size: 2.8em;
-  color: rgb(255, 86, 112);
-  margin-left: 20px;
-  text-align: center;
-
-}
-
-h2{
-color: rgb(119, 231, 229);
-}
-
-h3 {
-  color: rgb(255, 255, 255);
-  line-height: 1.5;
-  margin-left: 20px;
-}
 
 a {
   color: #2879d0;
@@ -214,9 +197,12 @@ form {
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 2.8em;
   font-weight: normal;
-  color: #474747;
   text-indent: 6px;
   letter-spacing: -1px;
+  font-size: 2.8em;
+  color: rgb(255, 86, 112);
+  margin-left: 20px;
+  text-align: center;
 }
 
 #main-content h1:before {
@@ -231,8 +217,10 @@ form {
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 22px;
   font-weight: bold;
-  color: #474747;
   text-indent: 4px;
+  color: rgb(119, 231, 229);
+  line-height: 1.5;
+  margin-left: 20px;
 }
 #main-content h2:before {
   padding-right: 0.3em;
@@ -247,7 +235,9 @@ form {
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 18px;
   font-weight: bold;
-  color: #474747;
+  color: rgb(255, 255, 255);
+  line-height: 1.5;
+  margin-left: 20px;
   text-indent: 3px;
 }
 
