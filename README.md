@@ -1,6 +1,6 @@
 ## Welcome to Lexie's GitHub
 
-### I am a Biostatistics major student in UC-Davis. I got my Bachelor degress in Statistics. I have been working in Runcie Lab analyzing plants' traits data and help programming BSFG package for revealing genetic and environment relationship of quantitative traits. Welcome to my page and explore the projects I have done.
+### I am a Biostatistics major student in UC-Davis. I got my Bachelor degree in Statistics. I have been working in Runcie Lab analyzing plants' traits data and help programming BSFG package for revealing genetic and environment relationship of quantitative traits. Welcome to my page and explore the projects I have done.
 
 ### Markdown
 
