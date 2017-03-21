@@ -1,1 +1,0 @@
-<div w3-include-html="assignment6.html"></div> 
