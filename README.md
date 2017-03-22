@@ -1,6 +1,6 @@
 # Welcome to Lexie's GitHub
 
-# I am a Biostatistics major student in UC-Davis. I got my Bachelor degree in Statistics. I have been working in Runcie Lab in analyzing plants' traits data and helping programming BSFG package for revealing genetic and environment relationship of quantitative traits. Welcome to my page and explore the projects I have done.
+## I am a Biostatistics major student in UC-Davis. I got my Bachelor degree in Statistics. I have been working in Runcie Lab in analyzing plants' traits data and helping programming BSFG package for revealing genetic and environment relationship of quantitative traits. Welcome to my page and explore the projects I have done.
 
 ## CaliforniaHousing <a href = "https://alice4926.github.io/CaliforniaHousing/">Final Project </a> 
 ### The Doomsday Algorithm <a href = "HW1/assignment1.html">Assignment 1</a>  
