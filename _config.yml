@@ -3,4 +3,6 @@ description: Stats 141B is a course of Data and Web Technologies for Data Analys
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-architect
+gems:
+  - jemoji
 
