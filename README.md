@@ -9,7 +9,7 @@
 ### Explore the USDA Food Composition Databases by web API <a href = "HW4/assignment4.html">Assignment 4</a> 
 ### Web scraping and natural language processing of text from<a href = "https://theaggie.org/"> the California Aggie </a> <a href = "HW5/assignment5.html">Assignment 5</a>    
 ### Map projections & SQLite dataset of zillow housing price, crime, schools and vendors in San Francisco <a href = "HW6/assignment6.html">Assignment 6</a> 
-### CaliforniaHousing <a href = "https://theaggie.org/">Final Project </a> 
+### CaliforniaHousing <a href = "https://alice4926.github.io/CaliforniaHousing/">Final Project </a> 
 
 
 
